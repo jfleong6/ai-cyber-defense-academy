@@ -8,13 +8,19 @@ Portafolio de evidencias del programa **AI Cyber Defense Academy** (Campuslands 
 
 Ciberseguridad **proactiva** para sistemas de Inteligencia Artificial con la metodología **A4D** (Attack → Analyze → Defend → Document) y los marcos MITRE ATT&CK, MITRE ATLAS, Attack Flow, OWASP GenAI y Threat Intelligence.
 
+## ⭐ Empieza aquí
+
+**[Técnicas proactivas que he aplicado](tecnicas-proactivas.md):** ventana proactiva, romper la cadena, reconstruir sin inventar, atacar el eslabón temprano y defensa contra phishing como servicio, cada una con su evidencia.
+
 ## Contenido
 
 | Sección | Evidencia | Estado |
 |---|---|---|
 | 01 · Propósito, ética y mentalidad del defensor | [Manifiesto del defensor](seccion-01/manifiesto-defensor.md) · [Reflexión módulo 01](seccion-01/reflexion-modulo-01.md) · [Mapa de propósito (Excalidraw)](seccion-01/mapa-proposito.excalidraw) | ✅ |
 | Laboratorio 1 · Ventana Proactiva | [Caso BragJack](laboratorios/lab-01-ventana-proactiva-bragjack.md) | ✅ |
-| 02 · Cómo piensa un adversario | [Anatomía del ataque: agente de IA vs. gobierno australiano](ejercicios/m2s1-anatomia-agente-openai-australia.md) | ✅ |
+| 02 · Cómo piensa un adversario | [Anatomía del ataque: agente de IA vs. gobierno australiano](ejercicios/m2s1-anatomia-agente-openai-australia.md) · **[Entregable del módulo: mapa del ecosistema criminal + brief (Kali365)](modulo-02/README.md)** | ✅ |
+| Laboratorio 2 · Investigador de incidentes | [Reconstruir sin inventar: agente de OpenAI vs. Medicare](laboratorios/lab-02-investigador-incidentes.md) · [Línea de tiempo (Excalidraw)](laboratorios/lab-02-linea-de-tiempo.excalidraw) | ✅ |
+| Aporte proactivo 01 · Kali365 | [Tokens delegados como superficie de ataque](aporte-proactivo-01-kali365/README.md): [reporte técnico](aporte-proactivo-01-kali365/reporte-tecnico.md) · [reporte sencillo](aporte-proactivo-01-kali365/reporte-sencillo.md) | ✅ |
 | 03 · MITRE ATT&CK y Attack Flow | Primer Attack Flow | ⏳ |
 | 04 · Threat Intelligence | Threat Intelligence Brief #1 | ⏳ |
 | 05 · SOC básico | Caso de investigación #1 | ⏳ |
